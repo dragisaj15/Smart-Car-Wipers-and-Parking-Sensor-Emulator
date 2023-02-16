@@ -423,7 +423,7 @@ int main(int argc, char** argv) {
         
         if(flag==1){
             Touch_Panel();
-            pritisnut_ekran();                                                        //                                         30/0,1220703125=245,76)
+            pritisnut_ekran();                                                                                                 
             ispis_temp();         
             pali_rd8();
             ispis_foto();
