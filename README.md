@@ -1,7 +1,7 @@
 # Smart Car Wipers & Parking Sensor Emulator
 
 ## Project Overview
-This project is an embedded systems simulation of modern car features, specifically smart windshield wipers and parking sensors. It uses a **dsPIC30Fxxxx** microcontroller to process environmental data via hardware interrupts and analog-to-digital (ADC) conversions. 
+This project is an embedded systems simulation of modern car features, specifically smart windshield wipers and parking sensors. It uses a **dsPIC30F4013** microcontroller to process environmental data via hardware interrupts and analog-to-digital (ADC) conversions. 
 
 The system autonomously controls an SG90 servo motor (acting as windshield wipers) whose speed adapts dynamically based on the ambient light simulated by a photoresistor. It also integrates a PIR motion sensor to emulate parking alerts, utilizing a piezoelectric buzzer.
 
